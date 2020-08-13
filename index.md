@@ -5,5 +5,5 @@ In this project, I have created a very simple game using Pygame. The objective o
 
 
 
-![Image of neural net game](https://raw.githubusercontent.com/josherrera2020/hello_world_of_neural_network/master/working_neural_net_game_1.png]
+![Image of neural net game](https://raw.githubusercontent.com/josherrera2020/hello_world_of_neural_network/master/working_neural_net_game_1.png)
 
