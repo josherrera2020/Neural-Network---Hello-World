@@ -7,7 +7,7 @@ In this project, I have created a very simple game using Pygame. The objective o
 Given that for a game is difficult to provide existing data to train our neural network, the neural network best suited for this project is a Generic neural network. Each instance of the player is given its own decision making neural network. The players that perform the best are chosen to form the base of the next generation of players. The base code or neural network of the players chosen is then mutated/changed to allow for different behavior in order to prevent future players from performing the exact movements. In this analogy, the genes that are passed on from one generation to the next are the neural network weights. 
 
 ### Concrete Details On The Neural Network
-The neural network consist of two inputs: the distance from the player to the nearest incoming obstacle and the distance from the player to the center of the path that to avoid collision. It has one hidden layer consisting of five nodes. The final layer is the outputs layer and it has three nodes which correspond to the probability of moving up, moving down, or staying in place. 
+The neural network consist of two inputs: the distance from the player to the nearest incoming obstacle and the distance from the player to the center of the path that would avoid a collision. It has one hidden layer consisting of five nodes. The final layer is the outputs layer and it has three nodes which correspond to the probability of moving up, moving down, or staying in place. 
 
 
 ## GAME SCREENSHOT 
