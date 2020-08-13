@@ -1,3 +1,7 @@
+
+![Image of neural net game]
+(https://raw.githubusercontent.com/josherrera2020/hello_world_of_neural_network/master/working_neural_net_game_1.png]
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/josherrera2020/hello_world_of_neural_network/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
