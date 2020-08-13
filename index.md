@@ -14,5 +14,4 @@ The neural network consist of two inputs. The distance from the player to the ne
 The following a screenshot of the neural network learning to play the game. In this instance, the zeroth generation was able to play the game without colliding with any of the obstacles. Different settings resulted in different number of iterations for the player to learn to play the game, but in average it took the neural network about 8 iterations to avoid all collisions. 
 
 
-The image below shows a screeshot of the neural network learning to play the game. In this instance, the first 
 ![Image of neural net game](https://raw.githubusercontent.com/josherrera2020/hello_world_of_neural_network/master/working_neural_net_game_1.png)
