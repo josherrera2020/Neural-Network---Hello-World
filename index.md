@@ -15,3 +15,21 @@ The following a screenshot of the neural network learning to play the game. In t
 
 
 ![Image of neural net game](https://raw.githubusercontent.com/josherrera2020/hello_world_of_neural_network/master/working_neural_net_game_1.png)
+
+
+## CODE 
+The code is not not explaned, but many resources are available on the topic; in fact part of my code comes from someone else's example. My goal is now to build my own neural netwrok for making a car follow a path marked on the floor. 
+
+### Main Function 
+Follow this link for the [main function code ](https://github.com/josherrera2020/Neural-Network---Hello-World/blob/master/main.py)
+
+### Player Function 
+Follow this link for the ["Player" code](https://github.com/josherrera2020/Neural-Network---Hello-World/blob/master/player.py)
+
+### Obstacles 
+And follow this link for the [obstacles code](https://github.com/josherrera2020/Neural-Network---Hello-World/blob/master/blocks.py)
+
+
+The project repository can be found [here](https://github.com/josherrera2020/Neural-Network---Hello-World)
+
+
